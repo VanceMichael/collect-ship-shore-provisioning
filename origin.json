@@ -1,0 +1,13 @@
+{
+  "title": "邮轮改靠港后的船供分件接驳与回执",
+  "sources": [
+    "/calls.json",
+    "/supplier/cartons.csv",
+    "/supplier/repack.json",
+    "/ship/demand.json",
+    "/wharf/yard.json",
+    "/ship/onboard.json"
+  ],
+  "forms": [],
+  "range_sources": []
+}

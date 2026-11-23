@@ -1,0 +1,5 @@
+box,line,kind,qty,allergen,stop,ports
+F1,C11,serialized,1,A,1,港甲|港乙
+F1,G17,bulk,12,B,2,港甲|港乙
+F2,G18,bulk,8,A,2,港甲
+F2,G19,bulk,8,B,2,港甲|港乙
