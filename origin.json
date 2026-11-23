@@ -6,7 +6,8 @@
     "/supplier/repack.json",
     "/ship/demand.json",
     "/wharf/yard.json",
-    "/ship/onboard.json"
+    "/ship/onboard.json",
+    "/wharf/transfer-windows.json"
   ],
   "forms": [],
   "range_sources": []
